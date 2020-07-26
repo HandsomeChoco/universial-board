@@ -45,6 +45,16 @@ export default function Home() {
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
           </a>
+
+          <a
+            href="http://www.rctown.co.kr"
+            className="card"
+          >
+            <h3>SoftLabs &rarr;</h3>
+            <p>
+              The company is ruining. It is a good thing.
+            </p>
+          </a>
         </div>
       </main>
 
